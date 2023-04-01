@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/all_days"
+        android:icon="@drawable/calendar"
+
+        android:title="@string/navigation_menu_all_days" />
+    <item
+        android:id="@+id/add_days"
+        android:icon="@drawable/add"
+        android:title="@string/navigation_menu_add_day"
+        />
+    <item
+        android:id="@+id/statistic"
+        android:icon="@drawable/statistic"
+        android:title="@string/navigation_menu_statistic" />
+</menu>

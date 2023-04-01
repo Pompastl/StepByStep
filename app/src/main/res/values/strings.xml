@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Step by step</string>
+    <string name="navigation_menu_all_days">Все дни</string>
+    <string name="navigation_menu_add_day">Добавить день</string>
+    <string name="navigation_menu_statistic">Статистика</string>
+    <string name="item_date_text">Дата</string>
+    <string name="item_steps_text">Шаги</string>
+    <string name="item_day_passed_text">Дней прошло</string>
+
+    <string name="item_calories_text">Вес</string>
+
+    <string name="hide_add_steps">Кол-во шагов:</string>
+    <string name="hide_add_calories">Вес:(кг)</string>
+    <string name="button_add_dat">Добавить</string>
+
+
+
+
+</resources>
